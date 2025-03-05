@@ -1,0 +1,14 @@
+# Node.js 관련 파일 제외
+node_modules/
+package-lock.json
+.env
+
+# 시스템 파일 제외
+AppData/
+.DS_Store
+.vscode/
+.cursor/
+.gitconfig
+.npmrc
+OneDrive/
+ntuser.*
