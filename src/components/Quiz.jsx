@@ -10,9 +10,9 @@ function Quiz() {
   const [selected, setSelected] = useState(null);
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 text-gray-800 px-4">
-      <h2 className="text-2xl font-bold text-blue-500 mt-6">{question}</h2>
-      <div className="mt-4 space-y-2 w-full sm:w-2/3 md:w-1/2 lg:w-1/3">
+    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 text-gray-800">
+      <h2 className="text-3xl font-bold text-blue-500 mt-6">{question}</h2>
+      <div className="mt-6 p-6 bg-white shadow-lg rounded-lg w-full sm:w-3/4 md:w-2/3 lg:w-1/2">
         {options.map((option, index) => (
           <button
             key={index}
