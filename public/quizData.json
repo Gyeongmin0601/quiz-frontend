@@ -1,0 +1,18 @@
+[
+    {
+      "question": "HTML의 약자는 무엇인가?",
+      "options": ["HyperText Markup Language", "High Tech Modern Language", "Home Tool Management Language"],
+      "answer": 0
+    },
+    {
+      "question": "CSS의 역할은 무엇인가?",
+      "options": ["웹 페이지의 디자인을 담당", "웹 페이지의 기능을 담당", "웹 페이지의 데이터를 저장"],
+      "answer": 0
+    },
+    {
+      "question": "JavaScript는 어떤 언어인가?",
+      "options": ["프로그래밍 언어", "데이터베이스 언어", "디자인 언어"],
+      "answer": 0
+    }
+  ]
+  
